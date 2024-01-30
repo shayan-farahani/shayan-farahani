@@ -14,8 +14,8 @@ I always like to code myself and not use ready-made modules But I have to use it
 - 💬 ask me about django
 
 
-contact with me:
-<br/>
+<h3>contact with me:</h3>
+
 
 <a href="https://github.com/Sh0yanFarahani/"><img src="images/github.png" alt="Logo" width="30" height="30"></a>
 <a href="https://www.instagram.com/kho0deshayan?igsh=OGQ5ZDc2ODk2ZA=="><img src="images/instagram.jpg" alt="Logo" width="30" height="30"></a>
