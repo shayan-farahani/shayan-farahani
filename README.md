@@ -8,7 +8,9 @@
 - 💬 ask me about django
 - 
 more:
-<a href="https://www.geeksforgeeks.org/python-todo-webapp-using-django/"><strong>docs for todo</strong></a>
+
+<br/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Logo" width="30" height="30">
  github: https://github.com/Sh0yanFarahani/
  instagram: https://www.instagram.com/kho0deshayan?igsh=OGQ5ZDc2ODk2ZA==
  telegram: https://t.me/kh0odeshayan
