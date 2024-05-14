@@ -7,11 +7,6 @@ In addition to programming books, I love history books.
   
 ###
 
-I always like to code myself and not use ready-made modules But I have to use it to improve my codes
-</h4>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
