@@ -8,7 +8,7 @@ I always like to code myself and not use ready-made modules But I have to use it
 
 ###
 
-About me:
+<h2 align="left">About me</h2>
 
 ###
 
