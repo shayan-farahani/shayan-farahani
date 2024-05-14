@@ -14,7 +14,7 @@ In addition to programming books, I love history books.
 - 👀 I know pretty good things about Python...
 - 🌱 I’m currently working on django framework.
 - 🎯 My goal is to learn a lot about programming and help others.
-- 💬 ask me about django
+- 💬 ask me about django framework, python
 
 ###
 
