@@ -19,10 +19,15 @@ In addition to programming books, I love history books.
 
 <h3>contact with me:</h3>
 
-
-<a href="https://github.com/Sh0yanFarahani/"><img src="images/github.png" alt="Logo" width="30" height="30"></a>
-<a href="https://www.instagram.com/kho0deshayan?igsh=OGQ5ZDc2ODk2ZA=="><img src="images/instagram.jpg" alt="Logo" width="30" height="30"></a>
-<a href="https://t.me/kh0odeshayan"><img src="images/telegram.jpg" alt="Logo" width="30" height="30"></a>
+<a href="shayanpars230@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</a>
+<a href="https://www.instagram.com/iamnotsh0yan" target="_blank">
+ <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</a>
+<a href="https://t.me/kh0odeshayan" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+</a>
 
 What I Know:
 <div align="left">
