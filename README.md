@@ -1,8 +1,6 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
-
 ###
 
 <h4>  hey, I am Shayan from arak, iran an I've been interested in programming for almost a long time. I work in the back-end site and my repositories are almost about Django. I am always looking for new technologies and I like to do group work (encryption). I am interested and sometimes I read about it
