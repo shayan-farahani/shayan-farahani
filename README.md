@@ -3,7 +3,7 @@
 
 ###
 
-<h4>  hey, I am Shayan from arak, iran an I've been interested in programming for almost a long time. I work in the back-end site and my repositories are almost about Django. I am always looking for new technologies and I like to do group work (encryption). I am interested and sometimes I read about it
+<h4>  hey, I am Shayan from arak, iran an I've been interested in programming for almost a long time. I work in the back-end site and my repositories are almost about Django. I am always looking for new technologies and I like to do group work. I am interested and sometimes I read about it
   
 ###
 
