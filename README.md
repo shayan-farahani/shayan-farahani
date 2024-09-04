@@ -1,9 +1,4 @@
-## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-
-###
-
-<h4>  hey, I am Shayan from arak, iran an I've been interested in programming for almost a long time. I work in the back-end site and my repositories are almost about Django. I am always looking for new technologies and I like to do group work.
-  
+## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px>
 ###
 
 <h2 align="left">About me</h2>
